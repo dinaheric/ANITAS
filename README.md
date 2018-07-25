@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Anitas Kitchen
 
 ## Author
@@ -13,10 +12,10 @@ I hope you will enjoy using it.
 Bootstrap
 Javascript
 All you have to do is to copy the file in working folder and type in the filename as it is followed by app extension..
- # Link to live site on github pages
-https:// github.com/dinaheric/anitas kitchen/fork
+ ## Link to live site on github pages
+[dinaheric](https:// github.com/dinaheric/anitas kitchen/fork)
 
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 [github pages]_(https://pages.github.com/ "Github Pages")_
 
@@ -24,7 +23,3 @@ Acknowledgments
 Hat tip to anyone whose code was used
 Inspiration
 etc
-=======
-# ANITAS
-Anitas Kitchen Setup
->>>>>>> 490f7d95d221a71f7a3d9f1583955a11a11bf71f

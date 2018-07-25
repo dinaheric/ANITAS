@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anitas Kitchen
 
 ## Author
@@ -23,3 +24,7 @@ Acknowledgments
 Hat tip to anyone whose code was used
 Inspiration
 etc
+=======
+# ANITAS
+Anitas Kitchen Setup
+>>>>>>> 490f7d95d221a71f7a3d9f1583955a11a11bf71f

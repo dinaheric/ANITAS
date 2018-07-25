@@ -1,0 +1,113 @@
+.jumbotron{
+    border-radius: 0 !important;
+    background-image: url("../anitaimages/landing.jpg");
+    background-color:#F15A29;
+    margin-bottom: 0;
+ }
+ .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto;
+ 
+ }
+ .font{
+    color:white;
+    font: 200;
+    text-align: center;
+ }
+ .party{
+    background-color: orangered;
+    padding: 20px;
+    color: #fff;
+    text-transform: capitalize;
+ }
+ .one{
+    background-image: url("../anitaimages/breakfast.jpg");
+    padding: 60px;
+    color: #fff;
+ }
+ .one p{
+    margin: 0 auto;
+ }
+ .happy{
+    padding: 20px;
+    background-color: gainsboro;
+    text-transform: capitalize;
+ }
+ .two{
+    background-image: url("../anitaimages/lunch.jpg");
+    padding:60px;
+    color: #fff;
+ }
+ .two p{
+    margin: 0 auto;
+ }
+ .three{
+    background-image: url("../anitaimages/dinner.jpg");
+    padding: 60px;
+    color: #fff;
+ }
+ .three p{
+    margin: 0 auto;
+ }
+ .wlogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: orangered;
+    padding: 60px;
+ }
+ #subscribe {
+    background-image: url("../anitaimages/subscribe.jpg");
+    padding: 60px;
+    text-align: center;
+ }
+ .pWhite {
+    color: white;
+ }
+ #formSub {
+    margin-left:400px;
+   
+ }
+ .subscribe {
+    margin-left: 60px;
+    background-color:#F15A29;
+    color: white;
+    border:0px;
+ }
+ .bold{
+    color:white;
+    font: 200;
+    text-align: center;
+    padding: 60px;
+ }
+ .wlogo {
+    padding: 60px;
+    text-align: center;
+ }
+ #colFooter {
+    background-color: #F15A29;
+    text-align: center;
+ }
+ h5{
+    color: #F15A29;
+ }
+ .paper{
+    box-shadow: 0 0 25px rgba(0,0,0,0.2);
+    border-radius: 5px;
+ }
+ .customers{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+ }
+ .orange{
+    color: #F15A29;
+ }
+ .subscribe-line{
+    border: 0.5px solid #F15A29;
+    border-radius: 5px;
+ }
